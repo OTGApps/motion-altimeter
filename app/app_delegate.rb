@@ -1,5 +1,7 @@
 class AppDelegate
   def application(application, didFinishLaunchingWithOptions:launchOptions)
+    return true if RUBYMOTION_ENV == 'test'
+
     if CMAltimeter.isRelativeAltitudeAvailable
       ma = Motion::Altimeter.new
       ma.start do |result|
