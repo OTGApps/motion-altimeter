@@ -1,5 +1,7 @@
 # motion-altimeter
 
+[![Build Status](https://travis-ci.org/OTGApps/motion-altimeter.svg)](https://travis-ci.org/OTGApps/motion-altimeter)
+
 Block-based RubyMotion gem for interacting with the [CMAltimeter](https://developer.apple.com/library/prerelease/ios/documentation/CoreMotion/Reference/CMAltimeter_class/index.html) class.
 
 ## Installation
