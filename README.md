@@ -1,6 +1,6 @@
 # motion-altimeter
 
-Block-based RubyMotion gem for interacting with the CMAltimeter class.
+Block-based RubyMotion gem for interacting with the [CMAltimeter](https://developer.apple.com/library/prerelease/ios/documentation/CoreMotion/Reference/CMAltimeter_class/index.html) class.
 
 ## Installation
 
